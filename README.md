@@ -11,3 +11,7 @@ The irrigation will be followed by an animation (always on screen) that simulate
 It will only be possible to irrigate if the water tank is fairly full, and to fill it you will need to press another button. 
 
 Over time, the humidity will decrease more and more rapidly, so as to make the game more challenging and increase the difficulty. The game over is activated when the humidity reaches 0%, so the aim will be to total the most points without losing.
+
+# Configuration and Installation
+For the correct use of the game, you must set the Clock frequency to 64Hz.
+
