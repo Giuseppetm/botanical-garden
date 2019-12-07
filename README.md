@@ -13,7 +13,7 @@ It will only be possible to irrigate if the water tank is fairly full, and to fi
 Over time, the humidity will decrease more and more rapidly, so as to make the game more challenging and increase the difficulty. The game over is activated when the humidity reaches 0%, so the aim will be to total the most points without losing.
 
 # Configuration
-For the correct use of the game, you must set the Clock frequency to > 64Hz.
+For the correct use of the game, you must set the Clock frequency to 64Hz.
 # How to play
 1. Start the game by pressing the appropriate power button.
 2. Irrigate the soil through the irrigation button, and keep the humidity in the range 50 -
