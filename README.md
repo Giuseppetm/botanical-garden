@@ -1,4 +1,4 @@
-# Botanical-Garden
+### Botanical-Garden
 This logisim project consists of the implementation of a game that allows the user to manage a vegetable garden through some tools at his disposal.
 
 The fundamental parameter is the humidity of the terrain, which is shown on the screen; since it will decrease over time, the user will have to keep it in a certain range, using an irrigation button, in such a way to allow the seedlings to be able to grow, and then to prune them. 
@@ -12,9 +12,9 @@ It will only be possible to irrigate if the water tank is fairly full, and to fi
 
 Over time, the humidity will decrease more and more rapidly, so as to make the game more challenging and increase the difficulty. The game over is activated when the humidity reaches 0%, so the aim will be to total the most points without losing.
 
-# Configuration
+### Configuration
 For the correct use of the game, you must set the Clock frequency to 64Hz.
-# How to play
+### How to play
 1. Start the game by pressing the appropriate power button.
 2. Irrigate the soil through the irrigation button, and keep the humidity in the range 50 -
 70%,
