@@ -1,6 +1,5 @@
-<img src="img/plant-icon-34784.png" width="100" height="100" align="right" />
-
 <h1 style="color:#7cb853;">Botanical garden</h1>
+<img src="img/botanicalGarden.png">
 This logisim project consists of the implementation of a game that allows the user to manage a vegetable garden through some tools at his disposal.
 
 The fundamental parameter is the humidity of the terrain, which is shown on the screen; since it will decrease over time, the user will have to keep it in a certain range, using an irrigation button, in such a way to allow the seedlings to be able to grow, and then to prune them. 
@@ -21,6 +20,3 @@ For the correct use of the game, you must set the Clock frequency to 64Hz.
 2. Irrigate the soil through the irrigation button, and keep the humidity in the range 50 - 70%,
 3. Wait for the seedlings to grow, and prune them to get points.
 4. Keep the water tank full, to avoid missing it.
-
-## Sample image
-<img src="img/botanicalGarden.png">
